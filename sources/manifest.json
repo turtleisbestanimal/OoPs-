@@ -1,0 +1,102 @@
+{
+  "source": "User-attached OoPs_Master_Context_v1",
+  "read_date": "2026-09-19",
+  "files": [
+    {
+      "path": "sources/OoPs_Master_Context_v1/00_README.md",
+      "bytes": 217,
+      "sha256": "aa9084ef7e4e080ee17c8246176b1ad2020d7fa9cc682bbbf4d781317954f571",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/01_Project_Overview.md",
+      "bytes": 310,
+      "sha256": "569bac212e22d16947d04b0a7e5d87dbc5f35fe12c9383a1233d859f1b81124d",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/02_Problem_Discovery.md",
+      "bytes": 252,
+      "sha256": "665c4aa99fc60c19769ee0ea0bde2f5cf68c005c4365cde822e0ec4e9f1d0245",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/03_Target_Customer.md",
+      "bytes": 190,
+      "sha256": "1d35e6b2e41698b4dd85a742f0a4c3de891bf68a66b97a8751e065a96aba2843",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/04_Product_Strategy.md",
+      "bytes": 158,
+      "sha256": "b60f72b3cc265ae8cfe8de36d08aef363eb9ed1aeaad3c560954e99b6ebd96e3",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/05_AI_Context_Engine.md",
+      "bytes": 210,
+      "sha256": "4148270a706cf35e961428de3fccdd3455a5aa0b76d57d341f76c1fb32c0331f",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/06_External_Context_Data.md",
+      "bytes": 233,
+      "sha256": "49b101473ba3cfe48583abd751e079d808709d28d8b3b67df0c6b651e27807ad",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/07_Technical_Architecture.md",
+      "bytes": 137,
+      "sha256": "f49d27a71b0a6221244a9fcf58a70761ccf40a54c5ab98d4462df7858872daa0",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/08_GPT_Differentiation.md",
+      "bytes": 188,
+      "sha256": "1de7682bc464798685da8375d2c403d7cd5536d2f95e3c8469a3e1bada4fd79f",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/09_Security_Strategy.md",
+      "bytes": 133,
+      "sha256": "3e9f413f2f4be17bbd6a259c6db32b6cb9cd18ed175befbfbad32cb48245bca9",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/10_Business_Model.md",
+      "bytes": 182,
+      "sha256": "c1db67deb152140af766db332b438037c68474e27f01c5933939e771963b62e1",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/11_Market_and_GTM.md",
+      "bytes": 164,
+      "sha256": "fde6de9ced4c036cb8faa45ba5e76bfff4b872adf2dd133b907acb0c43153867",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/12_Roadmap_and_KPI.md",
+      "bytes": 123,
+      "sha256": "3cd08d61c9ef1c7fbeb6d72b4603f11d88385b278e6e08adb6a30ba873b6c731",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/13_Hackathon_Feedback.md",
+      "bytes": 82,
+      "sha256": "6045c63b80784b58e477aed6e9874f42a49132ae928a6bf2051a37fcb6a67b17",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/14_Presentation_Strategy.md",
+      "bytes": 113,
+      "sha256": "a40330de9eb5e1c6990ec1e25f062481634b3910f905f34e8fc75f84cae6d352",
+      "read_completely": true
+    },
+    {
+      "path": "sources/OoPs_Master_Context_v1/15_Future_Validation_Plan.md",
+      "bytes": 124,
+      "sha256": "c714a42bdcc3dada8d2f32d8ceaffcf889fae49f462cc3be9ef2c24fddfc19de",
+      "read_completely": true
+    }
+  ]
+}
