@@ -23,8 +23,6 @@
 - 14_Presentation_Strategy.md
 - 15_Future_Validation_Plan.md
 
-별도 첨부: `/Users/turtleisbestanimal/Downloads/OoPs_신청서_전체본문.md` (목록에서 20,289바이트 확인, 본문 미열람)
-
 파일을 확보하면 원본 바이트 그대로 `sources/`에 보관하고 경로·크기·SHA-256·열람 결과를 기록한다. 현재는 원문 사본도 해시도 없다.
 
 ## 현재 대화
