@@ -1,6 +1,16 @@
 {
   "source": "User-attached OoPs_Master_Context_v1",
   "read_date": "2026-09-19",
+  "additional_sources": [
+    {
+      "source": "User-attached 모두의 창업 지원서 본문",
+      "read_date": "2026-09-29",
+      "path": "sources/모두의_창업_지원서_본문.md",
+      "bytes": 26491,
+      "sha256": "237a701d7a919c831b0fe927b1d853d6752d1925196fb32e7abcd4c9a7cbf78a",
+      "read_completely": true
+    }
+  ],
   "files": [
     {
       "path": "sources/OoPs_Master_Context_v1/00_README.md",
