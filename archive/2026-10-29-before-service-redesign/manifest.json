@@ -1,0 +1,35 @@
+{
+  "source_commit": "951bc7931bf2731537d69c8b84151f7b60aa02c0",
+  "files": [
+    {
+      "original_path": "README.md",
+      "archived_path": "이전_README.md",
+      "bytes": 3473,
+      "sha256": "51f3cbc68224dff55b03acfa49931cbac6a2c96b315510640eb4f2d993fd517f"
+    },
+    {
+      "original_path": "전체_기획서.md",
+      "archived_path": "전체_기획서.md",
+      "bytes": 94517,
+      "sha256": "75b632451a1aeb9e1ce02a7f9ea0b0ce493f38fc4f591b1ef0791a027d99fbba"
+    },
+    {
+      "original_path": "검토_사항.md",
+      "archived_path": "검토_사항.md",
+      "bytes": 71891,
+      "sha256": "21c7f6f0d60017b30553f1e6a88fd129fb421ce3b6bfff08f61a2ac281f59051"
+    },
+    {
+      "original_path": "검토완료사항.md",
+      "archived_path": "검토완료사항.md",
+      "bytes": 45840,
+      "sha256": "97e01a04a57f50adc41ab8333c79496432309df290e50a3a39197bef1092d696"
+    },
+    {
+      "original_path": "AI_작업_지침_및_시작_문구.md",
+      "archived_path": "AI_작업_지침_및_시작_문구.md",
+      "bytes": 105754,
+      "sha256": "9ee8da33f2b78fe1c9b76f40c8348d51b4db7a788a395b8b179eebe66cb5ff2b"
+    }
+  ]
+}
